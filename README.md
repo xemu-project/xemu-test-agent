@@ -13,7 +13,7 @@ First:
 Then:
 * Install Python 3.9+ and have it available on your `PATH`
 * Install FFMPEG and have it available on your `PATH`
-* Install this package via `python -m pip install https://github.com/mborgerson/xemu-test-agent`
+* Install this package via `python -m pip install https://github.com/mborgerson/xemu-test-agent/archive/refs/heads/master.zip`
 * Create a directory `private` that holds your:
   * mcpx.bin
   * bios.bin
